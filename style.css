@@ -140,7 +140,7 @@ transition: .5s ease;
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 2rem;
+    gap: 6rem;
     background: var(--bg-color);
 }
 .about-img img{
