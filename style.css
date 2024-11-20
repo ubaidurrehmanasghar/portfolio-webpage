@@ -23,6 +23,9 @@ body{
     background-color: var(--bg-color);
     color: var(--text-color);
 }
+span{
+    color: var(--main-color);
+}
 .header{
     position: fixed;
     top: 0;
