@@ -141,7 +141,7 @@ transition: .5s ease;
     justify-content: center;
     align-items: center;
     gap: 2rem;
-    background: var(--snd-bf-color);
+    background: var(--bg-color);
 }
 .about-img img{
     width: 35vw;
